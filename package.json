@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Saurish Kar"
+	"author": "Saurish Kar",
+  "description": "A project that does something awesome"
 }
